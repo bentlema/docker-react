@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/bentlema/docker-react.svg?branch=master)](https://github.com/bentlema/docker-react)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
